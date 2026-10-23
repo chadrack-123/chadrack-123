@@ -3,7 +3,7 @@
 ![Chadrack Kavula Mulamba - Software Engineer](assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://chadrack-portfolio.vercel.app/">Portfolio</a> &nbsp;&bull;&nbsp;
+  <a href="https://portfolio.chadrack.dev/">Portfolio</a> &nbsp;&bull;&nbsp;
   <a href="https://www.linkedin.com/in/chadrack-kavula-mulamba-67457318b/">LinkedIn</a> &nbsp;&bull;&nbsp;
   <a href="mailto:chadrackmulamba2@gmail.com">Email</a>
 </p>
